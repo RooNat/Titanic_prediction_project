@@ -1,2 +1,8 @@
-# Titanic_prediction_project
-Based on the Titanic dataset to predict the survival of the passengers
+# Titanic - Machine Learning From Diaster
+
+对Kaggle的[Titanic - Machine Learning From Diaster](https://www.kaggle.com/competitions/titanic) 项目进行建模和预测，本项目中使用了KNN，Random Forest, Logistic Regression等模型，对测试集的预测准确率达到82.775%, 在Kaggle竞赛中排名295/14413,排除前面排名中直接提交ground truth的队伍，这个预测准确率在真实排名中可达Top 1%
+
+
+![Rank](ranks.png)
+
+![Score](score.png)
